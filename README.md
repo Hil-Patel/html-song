@@ -13,10 +13,6 @@ This is a simple HTML website that displays the lyrics and audio of the song "Mo
 
 You can see a live demo of the website [here].
 
-## License
-
-This project is licensed under the [MIT License].
-
 ## Credits
 
 - Song: [Moje More] by Divlje Jagode
