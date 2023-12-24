@@ -11,7 +11,7 @@ This is a simple HTML website that displays the lyrics and audio of the song "Mo
 
 ## Demo
 
-You can see a live demo of the website [here].
+You can see a live demo of the website (https://hil-patel.github.io/html-song/).
 
 ## Credits
 
